@@ -1,0 +1,38 @@
+{
+  "records": [
+    {
+      "datetime": "2026-04-22T10:28:00",
+      "temperature": 24.76,
+      "humidity": 36.35,
+      "pressure": 750.06
+    },
+    {
+      "datetime": "2026-04-22T10:33:11",
+      "temperature": 25.13,
+      "humidity": 39.08,
+      "pressure": 750.01
+    },
+    {
+      "datetime": "2026-04-22T10:38:14",
+      "temperature": 25.15,
+      "humidity": 36.87,
+      "pressure": 749.83
+    }
+  ],
+  "latest_diag": {
+    "timestamp": "2026-04-22 10:28:00",
+    "system_mode": "GSM",
+    "operation_mode": "Online",
+    "mcc": "250",
+    "mnc": "2",
+    "rssi": "-71",
+    "voltage": "3.858",
+    "temperature": "23",
+    "uart": "115200"
+  },
+  "config": {
+    "work_dir": "",
+    "reset_interval": 3600,
+    "last_reset": null
+  }
+}

@@ -1,0 +1,2 @@
+work_dir=C:/Users/dumab/TESTDIR
+reset_interval=10800

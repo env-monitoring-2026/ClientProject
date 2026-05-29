@@ -1,0 +1,12 @@
+{
+  "name": "Кладовая",
+  "t_min": 12.0,
+  "t_max": 22.0,
+  "t_crit": 20.0,
+  "h_min": null,
+  "h_max": null,
+  "h_crit": null,
+  "p_min": null,
+  "p_max": null,
+  "p_crit": null
+}

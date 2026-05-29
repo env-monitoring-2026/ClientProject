@@ -1,0 +1,273 @@
+{
+  "records": [
+    {
+      "datetime": "2026-05-20T21:18:42",
+      "temperature": 25.96,
+      "humidity": 47.49,
+      "pressure": 762.09
+    },
+    {
+      "datetime": "2026-05-20T21:23:02",
+      "temperature": 25.93,
+      "humidity": 47.64,
+      "pressure": 762.11
+    },
+    {
+      "datetime": "2026-05-20T21:28:11",
+      "temperature": 25.9,
+      "humidity": 47.66,
+      "pressure": 762.07
+    },
+    {
+      "datetime": "2026-05-20T21:33:06",
+      "temperature": 25.9,
+      "humidity": 47.67,
+      "pressure": 762.07
+    },
+    {
+      "datetime": "2026-05-20T21:38:01",
+      "temperature": 25.89,
+      "humidity": 47.69,
+      "pressure": 762.16
+    },
+    {
+      "datetime": "2026-05-20T21:43:12",
+      "temperature": 25.89,
+      "humidity": 47.62,
+      "pressure": 762.15
+    },
+    {
+      "datetime": "2026-05-20T21:48:06",
+      "temperature": 25.88,
+      "humidity": 47.6,
+      "pressure": 762.21
+    },
+    {
+      "datetime": "2026-05-20T21:53:02",
+      "temperature": 25.87,
+      "humidity": 47.61,
+      "pressure": 762.24
+    },
+    {
+      "datetime": "2026-05-20T21:58:11",
+      "temperature": 25.84,
+      "humidity": 47.62,
+      "pressure": 762.27
+    },
+    {
+      "datetime": "2026-05-20T22:03:07",
+      "temperature": 25.85,
+      "humidity": 47.53,
+      "pressure": 762.36
+    },
+    {
+      "datetime": "2026-05-20T22:08:01",
+      "temperature": 25.86,
+      "humidity": 47.54,
+      "pressure": 762.33
+    },
+    {
+      "datetime": "2026-05-20T22:13:03",
+      "temperature": 25.84,
+      "humidity": 47.58,
+      "pressure": 762.33
+    },
+    {
+      "datetime": "2026-05-20T22:18:12",
+      "temperature": 25.82,
+      "humidity": 47.59,
+      "pressure": 762.25
+    },
+    {
+      "datetime": "2026-05-20T22:23:08",
+      "temperature": 25.83,
+      "humidity": 47.48,
+      "pressure": 762.3
+    },
+    {
+      "datetime": "2026-05-20T22:28:03",
+      "temperature": 25.82,
+      "humidity": 47.49,
+      "pressure": 762.3
+    },
+    {
+      "datetime": "2026-05-20T22:33:12",
+      "temperature": 25.8,
+      "humidity": 47.52,
+      "pressure": 762.31
+    },
+    {
+      "datetime": "2026-05-20T22:38:10",
+      "temperature": 25.8,
+      "humidity": 47.47,
+      "pressure": 762.36
+    },
+    {
+      "datetime": "2026-05-20T22:43:06",
+      "temperature": 25.8,
+      "humidity": 47.49,
+      "pressure": 762.48
+    },
+    {
+      "datetime": "2026-05-20T22:48:00",
+      "temperature": 25.78,
+      "humidity": 47.54,
+      "pressure": 762.52
+    },
+    {
+      "datetime": "2026-05-20T22:53:09",
+      "temperature": 25.77,
+      "humidity": 47.62,
+      "pressure": 762.52
+    },
+    {
+      "datetime": "2026-05-20T22:58:04",
+      "temperature": 25.78,
+      "humidity": 47.52,
+      "pressure": 762.66
+    },
+    {
+      "datetime": "2026-05-20T23:03:07",
+      "temperature": 25.78,
+      "humidity": 47.55,
+      "pressure": 762.57
+    },
+    {
+      "datetime": "2026-05-20T23:08:02",
+      "temperature": 25.77,
+      "humidity": 47.62,
+      "pressure": 762.65
+    },
+    {
+      "datetime": "2026-05-20T23:13:13",
+      "temperature": 25.77,
+      "humidity": 47.64,
+      "pressure": 762.65
+    },
+    {
+      "datetime": "2026-05-20T23:18:07",
+      "temperature": 25.76,
+      "humidity": 47.66,
+      "pressure": 762.59
+    },
+    {
+      "datetime": "2026-05-20T23:23:02",
+      "temperature": 25.76,
+      "humidity": 47.59,
+      "pressure": 762.55
+    },
+    {
+      "datetime": "2026-05-20T23:28:11",
+      "temperature": 25.75,
+      "humidity": 47.6,
+      "pressure": 762.51
+    },
+    {
+      "datetime": "2026-05-20T23:33:06",
+      "temperature": 25.76,
+      "humidity": 47.58,
+      "pressure": 762.63
+    },
+    {
+      "datetime": "2026-05-20T23:38:00",
+      "temperature": 25.74,
+      "humidity": 47.56,
+      "pressure": 762.61
+    },
+    {
+      "datetime": "2026-05-20T23:43:09",
+      "temperature": 25.73,
+      "humidity": 47.61,
+      "pressure": 762.62
+    },
+    {
+      "datetime": "2026-05-20T23:48:04",
+      "temperature": 25.72,
+      "humidity": 47.61,
+      "pressure": 762.51
+    },
+    {
+      "datetime": "2026-05-20T23:53:04",
+      "temperature": 25.72,
+      "humidity": 47.59,
+      "pressure": 762.45
+    },
+    {
+      "datetime": "2026-05-20T23:58:00",
+      "temperature": 25.72,
+      "humidity": 47.55,
+      "pressure": 762.47
+    },
+    {
+      "datetime": "2026-05-21T00:03:08",
+      "temperature": 25.71,
+      "humidity": 47.57,
+      "pressure": 762.31
+    },
+    {
+      "datetime": "2026-05-21T00:08:03",
+      "temperature": 25.72,
+      "humidity": 47.54,
+      "pressure": 762.27
+    },
+    {
+      "datetime": "2026-05-21T00:13:11",
+      "temperature": 25.7,
+      "humidity": 47.52,
+      "pressure": 762.27
+    },
+    {
+      "datetime": "2026-05-21T00:18:05",
+      "temperature": 25.7,
+      "humidity": 47.55,
+      "pressure": 762.4
+    },
+    {
+      "datetime": "2026-05-21T00:23:00",
+      "temperature": 25.69,
+      "humidity": 47.53,
+      "pressure": 762.33
+    },
+    {
+      "datetime": "2026-05-21T00:28:08",
+      "temperature": 25.68,
+      "humidity": 47.51,
+      "pressure": 762.25
+    },
+    {
+      "datetime": "2026-05-21T00:33:03",
+      "temperature": 25.68,
+      "humidity": 47.49,
+      "pressure": 762.24
+    },
+    {
+      "datetime": "2026-05-21T00:38:12",
+      "temperature": 25.67,
+      "humidity": 47.51,
+      "pressure": 762.24
+    },
+    {
+      "datetime": "2026-05-21T00:43:12",
+      "temperature": 25.66,
+      "humidity": 47.48,
+      "pressure": 762.14
+    }
+  ],
+  "latest_diag": {
+    "timestamp": "2026-05-21 00:38:12",
+    "system_mode": "GSM",
+    "operation_mode": "Online",
+    "mcc": "250",
+    "mnc": "2",
+    "rssi": "-70",
+    "voltage": "3.857",
+    "temperature": "25",
+    "uart": "115200"
+  },
+  "config": {
+    "work_dir": "C:/Users/dumab/TESTDIR",
+    "reset_interval": 10800,
+    "last_reset": null,
+    "next_reset_time": 1780054163.34658
+  }
+}

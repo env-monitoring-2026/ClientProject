@@ -1,0 +1,4 @@
+phone=+79213086945
+send_params=false
+params_freq=900
+send_diagnostic=false
