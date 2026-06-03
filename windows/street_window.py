@@ -23,7 +23,6 @@ class StreetWindow:
         self.window = tk.Toplevel(parent)
         self.window.title("Анализ данных - Улица")
 
-        # Масштабируем размеры окна
         width = scale(1000)
         height = scale(800)
         self.window.geometry(f"{width}x{height}")
@@ -100,7 +99,6 @@ class StreetWindow:
             }
 
     def setup_ui(self):
-        # Масштабированные шрифты
         title_font = ("Arial", scale_font_size(18), "bold")
         label_font = ("Arial", scale_font_size(11))
         bold_font = ("Arial", scale_font_size(11), "bold")
