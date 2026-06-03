@@ -20,7 +20,7 @@ class ModeEditor:
             if not mode_name else f"Редактирование режима: {mode_name}"
         )
 
-        # Масштабируем размеры окна
+
         width = scale(600)
         height = scale(700)
         self.window.geometry(f"{width}x{height}")
@@ -40,7 +40,7 @@ class ModeEditor:
         main_frame = ttk.Frame(self.window, padding=padding_main)
         main_frame.pack(fill=tk.BOTH, expand=True)
 
-        # Масштабированные шрифты
+
         title_font = ("Arial", scale_font_size(16), "bold")
         label_font = ("Arial", scale_font_size(11))
         entry_font = ("Arial", scale_font_size(11))
@@ -74,7 +74,7 @@ class ModeEditor:
             orient='horizontal'
         ).grid(row=2, column=0, columnspan=2, sticky='ew', pady=scale(15))
 
-        # Температура
+
         ttk.Label(
             main_frame,
             text="ТЕМПЕРАТУРА",
@@ -96,7 +96,7 @@ class ModeEditor:
             orient='horizontal'
         ).grid(row=7, column=0, columnspan=2, sticky='ew', pady=scale(10))
 
-        # Влажность
+
         ttk.Label(
             main_frame,
             text="ВЛАЖНОСТЬ",
@@ -118,7 +118,7 @@ class ModeEditor:
             orient='horizontal'
         ).grid(row=12, column=0, columnspan=2, sticky='ew', pady=scale(10))
 
-        # Давление
+
         ttk.Label(
             main_frame,
             text="ДАВЛЕНИЕ",
@@ -160,7 +160,7 @@ class ModeEditor:
         )
         cancel_btn.pack(side='left', padx=scale(5))
 
-        # Подсказка
+
         ttk.Label(
             main_frame,
             text="Оставьте поля пустыми, если параметр не контролируется",
@@ -191,7 +191,7 @@ class ModeEditor:
             messagebox.showerror("Ошибка", "Введите название режима")
             return
 
-        # Преобразование значений
+
         t_min = self._float_or_none(self.t_min_var.get())
         t_max = self._float_or_none(self.t_max_var.get())
         t_crit = self._float_or_none(self.t_crit_var.get())
